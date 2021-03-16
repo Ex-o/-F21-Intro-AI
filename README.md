@@ -2,4 +2,4 @@
 ## Assignment 1
 
 ### Test Function
-You can run the code by simply ``[solution].`` and then querying ``start(9).``
+You can run the code by simply ``[solution].`` and then querying ``start(9).`` in [SWI-prolog](http://swi-prolog.org/).
